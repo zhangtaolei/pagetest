@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'hello-pwa1';
 
 self.addEventListener('install', event => {
     event.waitUntil(
